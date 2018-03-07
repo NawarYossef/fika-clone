@@ -1,0 +1,28 @@
+{
+  "name": "starter-file",
+  "version": "1.0.0",
+  "description": "starter-file",
+  "main": "server.js",
+  "scripts": {
+    "test": "",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NawarYossef/vue-tube.git"
+  },
+  "author": "Nawar Yossef",
+  "license": "ISC",
+  "homepage": "https://github.com/NawarYossef/vue-tube#readme",
+  "dependencies": {
+    "express": "^4.15.3",
+    "lodash": "^4.17.4"
+  },
+  "devDependencies": {
+    "browserify": "^14.4.0",
+    "mocha": "^4.0.1"
+  },
+  "bugs": {
+    "url": "https://github.com/NawarYossef/vue-tube/issues"
+  }
+}
